@@ -13,4 +13,4 @@
 
 <br>
 
-[https://open.kakao.com/o/sYtSrQ3e]
+[[https://open.kakao.com/o/sYtSrQ3e](https://open.kakao.com/o/snGhIQ3e)]
