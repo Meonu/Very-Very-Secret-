@@ -13,4 +13,4 @@
 
 <br>
 
-[kakaolink]
+[https://open.kakao.com/o/sYtSrQ3e]
